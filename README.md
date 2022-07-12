@@ -1,1 +1,1 @@
-# Steadt-Hand-Game
+# Steady-Hand-Game
