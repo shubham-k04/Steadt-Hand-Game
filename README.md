@@ -1,1 +1,1 @@
-# Steady-Hand-Game
+# Steady-Hand-Game / Buzz wire game
